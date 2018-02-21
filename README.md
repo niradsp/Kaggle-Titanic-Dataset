@@ -1,2 +1,2 @@
 # Kaggle-Titanic-Dataset
-I have used a simple neural network as well as a couple of sklearn algorithms along with XGBoost.
+I showcase two separate models.  The first one uses a couple of sklearn algorithms as well as XGboost, and invokes a voting classifier to come with a consensus.  The second model is a simple neural network using Keras.
